@@ -1,0 +1,14 @@
+.register {
+  height: 250px;
+  width: 350px;
+  background-color: white;
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px 3px #ccc;
+}
+
+.register-heading {
+  font-family: 'Comfortaa';
+}
